@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile 2.jpeg"
   name             : "Prashanth Sreenivasan"
   pronouns         : # example: "she/her"  
   bio              : "Former Game Developer at Zynga. Computer Science Graduate from BITS-Pilani, Goa Campus (2022). Currently exploring applications of AI in gaming and generative AI."
