@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Prashanth Sreenivasan"
 description              : &description "personal description"
 url                      : https://prashanthsrn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Prashanth.github.io"
+baseurl                  : "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
