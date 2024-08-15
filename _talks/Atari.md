@@ -1,7 +1,7 @@
 ---
 title: "Playing Atari with Deep Reinforcement Learning"
-collection: papers
-permalink: /papers/Atari
+collection: talks
+permalink: /talks/Atari
 ---
 
 This paper introduces a new model by combining deep learning with reinforcement learning, specifically to handle high dimensional inputs like raw images. The researchers developed the Deep Q-networks, which uses convolutional neural networks to process high-dimensional data. This is used to train an agent to play Atari games, without any game specific information.
