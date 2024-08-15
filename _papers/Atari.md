@@ -1,7 +1,7 @@
 ---
 title: "Playing Atari with Deep Reinforcement Learning"
-collection: talks
-permalink: /talks/Atari
+collection: papers
+permalink: /papers/Atari
 date: 2023-03-01
 ---
 
