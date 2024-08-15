@@ -9,7 +9,7 @@ main:
     url: /portfolio/
         
   - title: "Papers Read"
-    url: /year-archive/
+    url: /talks/
     
   - title: "CV"
     url: /files/Prashanth's CV.pdf
