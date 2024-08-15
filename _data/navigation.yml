@@ -12,13 +12,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-
-  - title: "Research Intrests"
-    url: /year-archive/
-
-  - - title: "Hobbies and Intrests"
-    url: /year-archive/
+    url: /files/Prashanth's CV.pdf
     
   - title: "Guide"
     url: /markdown/
