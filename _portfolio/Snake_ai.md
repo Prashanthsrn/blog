@@ -1,6 +1,6 @@
 ---
 title: "Snake learned by AI agent"
-excerpt: "Creating the classic Snake game and training an AI agent to master it<br/><img src='/images/Snake_learning_graph.png'>"
+excerpt: "Creating the classic Snake game and training an AI agent to master it<br/><img src='images/Snake_learning_graph.png'>"
 collection: portfolio
 ---
 
