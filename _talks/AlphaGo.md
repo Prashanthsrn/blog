@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Game of Go with Deep Neural Networks and Tree Search"
-collection: papers
-permalink: /papers/AlphaGo
+collection: talks
+permalink: /talks/AlphaGo
 ---
 
 The paper discusses the working and achievements of the AlphaGo model, trained specifically for the complex game of Go. AlphaGo was able to achieve superhuman levels of playing Go and was able to beat world champions.
