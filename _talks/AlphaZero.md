@@ -1,7 +1,7 @@
 ---
 title: "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm "
-collection: papers
-permalink: /papers/AlphaZero
+collection: talks
+permalink: /talks/AlphaZero
 ---
 
 This paper focuses on the development and performance of the AlphaZero algorithm and how it achieves tabula rasa learning, that is learning from a blank slate or without any domain specific knowledge. 
