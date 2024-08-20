@@ -8,7 +8,7 @@ redirect_from:
 ---
 Outside of my academic and professional pursuits, I am passionate about staying active and exploring creative outlets
 
-**Running**: I love hitting the pavement! I’ve nailed a sub-2 hour half marathon and even tackled a full marathon in just over 5 hours. Always up for the next big run!
+**Running**: I’m passionate about running and would consider it an essential part of my daily life. I’ve nailed a sub-2 hour half marathon and even tackled a full marathon in just over 5 hours. Always up for the next big run!
 
 **Painting**: I like to paint whenever I get the chance, using charcoal, acrylic, and water paints to bring my ideas to life, whether inspired by nature or abstract concepts.
 
