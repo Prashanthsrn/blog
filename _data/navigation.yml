@@ -8,11 +8,11 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Papers Read"
+  - title: "Papers I Found Interesting"
     url: /talks/
     
   - title: "CV"
     url: /files/Prashanth's CV.pdf
     
-  - title: "Hobbies and Personal Intrests"
+  - title: "Hobbies"
     url: /markdown/
