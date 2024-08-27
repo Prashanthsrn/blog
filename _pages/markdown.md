@@ -12,7 +12,7 @@ Outside of my academic and professional pursuits, I am passionate about staying 
 
 **Painting**: I like to paint whenever I get the chance, using charcoal, acrylic, and water paints to bring my ideas to life, whether inspired by nature or abstract concepts.
 
-<img title="Paintings and sketches" alt="Paintings and sketches" src="images/Screenshot 2024-08-23 at 2.56.41 PM.png"> 
+<img title="Paintings and sketches" alt="Paintings and sketches" src="../images/Screenshot 2024-08-23 at 2.56.41 PM.png"> 
 
 **Tennis**:  Playing tennis is one of my favorite ways to stay active. Whether I’m playing a casual game with friends or in a competitive match, it’s a fantastic way to enjoy the sport and keep my reflexes sharp.
 
