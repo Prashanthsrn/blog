@@ -9,9 +9,4 @@ This project is a 2D top-down RPG-style game built using Unity. The goal of this
   - The game is built in a Unity 2D environment. It involves a player, an enemy, and coins the player can collect.  Each component has an animation: the player and enemy have walking animations, and the coin has a rotating animation.
   - The enemy predicts the player's movement by storing the player's previous moves and calculating the average for the next move.
 
-<video width="500" height="500" controls>
-  <source src="../files/Chase_and_Escape.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
