@@ -10,5 +10,5 @@ This project is a 2D top-down RPG-style game built using Unity. The goal of this
   - The enemy predicts the player's movement by storing the player's previous moves and calculating the average for the next move.
   - [Github](https://github.com/Prashanthsrn/Chase-and-Escape)
 
-https://github.com/user-attachments/assets/68dcb482-2e2b-40f9-8db7-dedd1e7aa887
 
+<img width="794" alt="Screenshot 2024-08-27 at 11 03 18 AM" src="https://github.com/user-attachments/assets/c30cfe1b-dbbf-4889-bd8a-aec528f5f667">
