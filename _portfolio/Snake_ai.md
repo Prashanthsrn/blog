@@ -13,4 +13,4 @@ This project involved developing the classic Snake game and training an AI agent
 
 
 
-<img title="Snake Learning Graph" src="../images/Screenshot 2024-08-27 at 9.25.18 AM.png">
+<img width="992" alt="Screenshot 2024-11-06 at 11 54 22 AM" src="https://github.com/user-attachments/assets/9b341448-16a6-41ef-9328-b3c06b96ce17">
