@@ -1,4 +1,3 @@
-
 ---
 title: "2D Image depth estimation"
 excerpt: "A program that generates the depth map of a 2D image and using this depth map develops a point cloud 3D model of the object"
