@@ -12,4 +12,6 @@ This project aimed at developing a tool that could give outputs of a room in dif
   - Created a ComfyUI workflow, where the users could input an image of their room and would get outputs of that room in different styles. (This was done using the edge control trait)
 
 
+
+
 <img title="Comfy UI workflow" src="../images/Screenshot 2024-08-27 at 10.11.12 AM.png">
