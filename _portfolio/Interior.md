@@ -14,4 +14,4 @@ This project aimed at developing a tool that could give outputs of a room in dif
 
 
 
-<img title="Comfy UI workflow" src="../images/Screenshot 2024-08-27 at 10.11.12 AM.png">
+<img width="1141" alt="Screenshot 2024-11-06 at 11 53 58 AM" src="https://github.com/user-attachments/assets/fe0a1ab9-cd97-4511-a940-57de46ec4c9f">
