@@ -12,4 +12,5 @@ This project involved developing the classic Snake game and training an AI agent
   - The training progress was recorded and displayed using MatplotLib
 
 
+
 <img title="Snake Learning Graph" src="../images/Screenshot 2024-08-27 at 9.25.18 AM.png">
