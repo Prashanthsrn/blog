@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science graduate from the Birla Institute of Technology and Sciences with a strong interest in Computer Vision, 3D model generation, and AI. Over the years, I’ve developed a deep passion for understanding how AI can enhance virtual experiences, especially through 3D perception and reconstruction. 
+I am a Computer Science graduate from the BITS-Pilani with a strong interest in Computer Vision, 3D model generation, and AI. Over the years, I’ve developed a deep passion for understanding how AI can enhance virtual experiences, especially through 3D perception and reconstruction. 
 
 I am passionate about building smart, adaptive systems that push the boundaries of immersive experiences. With experience in diffusion models, reinforcement learning, and computer vision, I’m currently exploring how AI can reshape virtual interactions.
 
