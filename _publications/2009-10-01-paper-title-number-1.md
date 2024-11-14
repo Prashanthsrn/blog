@@ -1,7 +1,7 @@
 ---
 title: "Computing Midcurve with multi-layer and Convolutional Neural Networks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the continued exploration of the computation of midcurves of 2D polygon shapes'
 venue: 'IEEE ICCIT 2025'
