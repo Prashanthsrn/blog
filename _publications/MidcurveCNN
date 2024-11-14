@@ -2,10 +2,10 @@
 title: "Computing Midcurve with multi-layer and Convolutional Neural Networks"
 collection: publications
 category: conferences
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/MidcurveCNN
 excerpt: 'This paper is about the continued exploration of the computation of midcurves of 2D polygon shapes'
 venue: 'IEEE ICCIT 2025'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/Computing Midcurve with multi-layer and Convolutional Neural Networks.pdf'
 citation: 'Prashanth Sreenivasan, Yogesh Kulkarni. (2009). "Computing Midcurve with multi-layer and Convolutional Neural Networks"; <i>Under Review at IEEE International Conference on Computational, Communication and Information Technology (ICCCIT) 2025 </i>. 1(1).'
 ---
 
