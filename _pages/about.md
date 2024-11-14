@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my corner of the web! I’m an AI enthusiast with a love for building cool stuff that merges creativity and technology. My journey in tech has been quite an adventure, from dabbling in game development to diving deep into generative AI.
+I am a Computer Science graduate from the Birla Institute of Technology and Sciences with a strong interest in Computer Vision, 3D model generation, and AI. Over the years, I’ve developed a deep passion for understanding how AI can enhance virtual experiences, especially through 3D perception and reconstruction. 
 
-I’ve always been curious about how things work, which naturally led me to explore the world of Artificial Intelligence. Whether it’s creating AI that can outsmart players in a game or designing tools that bring creative visions to life, I’m all about pushing the boundaries of what’s possible.
+I am passionate about building smart, adaptive systems that push the boundaries of immersive experiences. With experience in diffusion models, reinforcement learning, and computer vision, I’m currently exploring how AI can reshape virtual interactions.
 
-When I’m not coding or experimenting with new ideas, you’ll find me learning something new, probably related to AI (because let’s be honest, there’s always something new in this field!). My goal? To create tech that’s not just innovative but also makes life a bit more interesting and fun.
+My background includes working as a software engineer at Zynga, where I developed solutions that enhanced gameplay experiences. Today, I’m diving deeper into AI-driven 3D perception, working on projects that merge creativity and technology.
 
-Feel free to explore my projects, and if something catches your eye, let’s chat! I’m always up for a good conversation about AI, games, or the next big idea.
+Whether I’m working on diffusion models or experimenting with generative AI systems, my goal is to push the limits of what’s possible in the world of immersive technology. In my free time, I enjoy painting, running, and tennis!
+
