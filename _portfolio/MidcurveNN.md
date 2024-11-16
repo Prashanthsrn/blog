@@ -11,7 +11,7 @@ Midcurve computation has been implemented in 3 ways:
 -  Using CNN-based encoder decoder
 
 
-Read more about this project in [Research Paper]()
+Read more about this project in [Research Paper](/files/Computing Midcurve with multi-layer and Convolutional Neural Networks.pdf)
 
 Github Repo for this project : [link](https://github.com/yogeshhk/MidcurveNN)
 
