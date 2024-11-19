@@ -4,7 +4,7 @@ excerpt: "This is a program that visualizes PLY/PCD files and provides basic int
 collection: portfolio
 ---
 
-A Halide-based implementation of Histogram equalization, which is an image processing technique that improves the contrast. This project uses halide optimization capabilities to efficiently process images on the CPU using parallelization and vectorization.
+This is an Open3D-based point cloud visualization tool. I developed this to test out a 2d image to point cloud generation project I worked on
 
 *Implementation*
   - Uses Open3D library to handle point cloud data loading and normal estimation
